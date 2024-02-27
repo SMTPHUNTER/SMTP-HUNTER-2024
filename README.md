@@ -1,3 +1,6 @@
+SMTP HUNTER 2024
+SMTP SCANNER 2024
+
 works on python2.7
 
 Requirements:
